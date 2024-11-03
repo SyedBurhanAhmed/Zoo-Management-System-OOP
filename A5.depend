@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1688916394 source:c:\burhan\oop\project\a5\animal.cpp
+	"Animal.h"
+	<iostream>
+	"Animal_health.h"
+	"date.h"
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+
+1688915613 c:\burhan\oop\project\a5\animal.h
+	<string>
+	"date.h"
+	"Animal_health.h"
+
+1688916394 source:c:\burhan\oop\project\a5\main.cpp
+	<iostream>
+	"Animal.h"
+	"Animal_health.h"
+	"date.h"
+	<string.h>
+	<fstream>
+	<sstream>
+
+1688915713 source:c:\burhan\oop\project\a5\animal_health.cpp
+	"Animal_health.h"
+	<string>
+	"date.h"
+	<iostream>
+	<windows.h>
+
+1688915851 c:\burhan\oop\project\a5\animal_health.h
+	<string>
+	<Animal.h>
+
+1688575837 source:c:\burhan\oop\project\a5\habitat.cpp
+	"date.h"
+	<iostream>
+	<string>
+	"Animal_health.h"
+	<windows.h>
+
+1688575856 c:\burhan\oop\project\a5\habitat.h
+	<string>
+	<Animal.h>
+	"Animal_health.h"
+	"date.h"
+
+1688600549 source:c:\burhan\oop\project\a5\date.cpp
+	"date.h"
+	<iostream>
+
+1688600549 c:\burhan\oop\project\a5\date.h
+	<string>
+
+1688916396 source:d:\university\1st year\oop\project\a5\animal.cpp
+	"Animal.h"
+	<iostream>
+	"Animal_health.h"
+	"date.h"
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+
+1730668699 d:\university\1st year\oop\project\a5\animal.h
+	<string>
+	"date.h"
+	"Animal_health.h"
+
+1688600550 d:\university\1st year\oop\project\a5\date.h
+	<string>
+
+1688915852 d:\university\1st year\oop\project\a5\animal_health.h
+	<string>
+	<Animal.h>
+
+1688915714 source:d:\university\1st year\oop\project\a5\animal_health.cpp
+	"Animal_health.h"
+	<string>
+	"date.h"
+	<iostream>
+	<windows.h>
+
+1688600550 source:d:\university\1st year\oop\project\a5\date.cpp
+	"date.h"
+	<iostream>
+
+1688575838 source:d:\university\1st year\oop\project\a5\habitat.cpp
+	"date.h"
+	<iostream>
+	<string>
+	"Animal_health.h"
+	<windows.h>
+
+1707565520 source:d:\university\1st year\oop\project\a5\main.cpp
+	<iostream>
+	"Animal.h"
+	"Animal_health.h"
+	"date.h"
+	<string.h>
+	<fstream>
+	<sstream>
+
